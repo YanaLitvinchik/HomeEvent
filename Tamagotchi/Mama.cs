@@ -16,7 +16,7 @@ namespace Tamagotchi
                 f = 0;
             }
             else     
-                f++;               //ddddn
+                f++;               
             if (f >= 3)
                 SayNo();
             else
